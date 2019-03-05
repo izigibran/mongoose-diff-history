@@ -266,5 +266,6 @@ module.exports = {
     plugin,
     getVersion,
     getDiffs,
-    getHistories
+    getHistories,
+    History
 };
